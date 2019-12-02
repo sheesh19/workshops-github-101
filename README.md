@@ -54,7 +54,8 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 4. Add a commit message with `git commit -m "your commit message"`
 5. Run `git remote -v` to see the remote repo linked to your project
 6. Finally, push your branch to GitHub! Make sure to use `git push origin <your_branch_name>`
-7. Create a pull request & merge your branch on GitHub
+7. Create a pull request on your GitHub UI/online version.
+8. Look at the online pull request & merge your branch on GitHub
 
 
 
