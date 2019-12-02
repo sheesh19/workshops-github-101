@@ -43,8 +43,8 @@ Remember to use your cheatsheet, get help from your buddy, & ask for help.
 1. Open your terminal
 2. Print out your current directory. Make sure you are in your Desktop or in the previous folder you were working with
 3. Go to this repo: `https://github.com/sheesh19/workshops-github-101`
-4. **Fork** the repository (to make you the Master of the repo)
-5. `git clone` your new repo into your folder
+4. **Fork** the repository (to make you the Master of the repo) on the GitHub UI/online version
+5. `git clone` the repo from your own GitHub into your folder. Make sure to move into your folder
 
 
 # Challenge 3 
